@@ -21,6 +21,9 @@ Notas sobre el manejo de Assets y Actores orientado a la automatizacion de tarea
 
 - [⚠️ **Issues al usar set_property**](./06%20-%20Issues%20al%20usar%20set_property.md)
 
+## 📦 Instancias de Materiales
+
+- [🔧 **Editando Instancias de Materiales**](./07%20-%20Editando%20Instancias%20de%20Materiales.md)
 ---
 
 

@@ -1,11 +1,7 @@
 
 En esta documentacion se explica el workflow standard para el tratamiento de Assets y Actores en UE5.3, así como la automatización programática de tareas que puedan surgir durante el desarrollo de producto.
 
-El texto actual define de forma rapida la forma standard de acceder a Assets y cambiar sus propiedades, estas formas pueden cambiar en base a la version de UE que se use y además no todas las propiedades cambiadas de forma automática mediante el metodo standard pueden funcionar de la manera esperada debido al sistema de notificacion de cambios de UE.
-
-El sistema de notificacion se compone de una serie de metodos en UE que son llamadas una vez se realiza un cambio en el editor o de forma programatica para refrescar y cambiar aquellos otros valores que deban hacerlo debido al cambio.
-
-Para lidiar con estos problemas consultar el punto 06 - Issues al user set_property
+El texto actual define de forma rapida la forma standard de acceder a Assets y cambiar sus propiedades, estas formas pueden cambiar en base a la version de UE que se use.
 
 --
 
